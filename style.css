@@ -1,6 +1,6 @@
 @font-face {
   font-family: "heading";
-  src: url("../assets/fonts/coolvetica\ rg.otf") format("truetype");
+  src: url("./coolvetica\ rg.otf") format("truetype");
 }
 
 .landing-page .straight-logo-1 {
@@ -179,7 +179,7 @@
 }
 .landing-page .surprised-girl-standing-front-stage-light-holding-scripts-1 {
   border-radius: 12px;
-  background: url('../assets/images/surprised_girl_standing_front_stage_light_holding_scripts_1.jpeg') 50% / cover no-repeat;
+  background: url('./surprised_girl_standing_front_stage_light_holding_scripts_1.jpeg') 50% / cover no-repeat;
   width: 510px;
   height: 340px;
 }
@@ -253,7 +253,7 @@
   box-sizing: border-box;
 }
 .landing-page .image-4 {
-  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  background: url('./image_4.png') 50% / cover no-repeat;
   width: 46px;
   height: 46px;
 }
@@ -417,7 +417,7 @@
   box-sizing: border-box;
 }
 .landing-page .image-5 {
-  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  background: url('./image_5.png') 50% / cover no-repeat;
   width: 49px;
   height: 49px;
 }
@@ -742,7 +742,7 @@
   box-sizing: border-box;
 }
 .landing-page .image-6 {
-  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  background: url('./image_6.png') 50% / cover no-repeat;
   width: 70px;
   height: 61px;
 }
@@ -1002,7 +1002,7 @@
   color: #FFFFFF;
 }
 .landing-page .file-21 {
-  background: url('../assets/images/file_21.png');
+  background: url('./file_21.png');
   position: absolute;
   right: 0px;
   bottom: 0px;
@@ -1021,7 +1021,7 @@
   box-sizing: border-box;
 }
 .landing-page .footer-2 {
-  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  background: url('./footer_1.png') 50% / cover no-repeat;
   position: absolute;
   left: 50%;
   top: 1px;
@@ -1050,7 +1050,7 @@
   box-sizing: border-box;
 }
 .landing-page .footer-3 {
-  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  background: url('./footer_1.png') 50% / cover no-repeat;
   position: absolute;
   left: 50%;
   top: 1px;
@@ -1124,7 +1124,7 @@
   box-sizing: border-box;
 }
 .landing-page .footer-1 {
-  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  background: url('./footer_1.png') 50% / cover no-repeat;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1366,19 +1366,19 @@
   color: #BB362A;
 }
 .landing-page .instagram {
-  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  background: url('./instagram.png') 50% / contain no-repeat;
   margin: 1px 0 2px 0;
   width: 26px;
   height: 24px;
 }
 .landing-page .twitter-x {
-  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  background: url('./twitter_x.png') 50% / contain no-repeat;
   margin: 1px 24px 2px 0;
   width: 22px;
   height: 24px;
 }
 .landing-page .you-tube {
-  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  background: url('./you_tube.png') 50% / contain no-repeat;
   width: 27px;
   height: 27px;
 }
@@ -1389,7 +1389,7 @@
   box-sizing: border-box;
 }
 .landing-page .facebook {
-  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  background: url('./facebook.png') 50% / contain no-repeat;
   position: absolute;
   top: 1px;
   right: 28px;
@@ -1419,7 +1419,7 @@
   box-sizing: border-box;
 }
 .landing-page .portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall-kids-fashion-concept-1 {
-  background: url('../assets/images/portrait_cute_little_kid_boy_stylish_jeans_clothes_looking_camera_against_white_studio_wall_kids_fashion_concept_1.png');
+  background: url('./portrait_cute_little_kid_boy_stylish_jeans_clothes_looking_camera_against_white_studio_wall_kids_fashion_concept_1.png');
   position: absolute;
   right: 532px;
   bottom: 1101px;
@@ -1427,7 +1427,7 @@
   height: 291px;
 }
 .landing-page .adorable-cute-child-with-microphone-hands-singing-songs-looks-camera-performing-isolated-yellow-background-child-arranging-concert-sings-karaoke-1 {
-  background: url('../assets/images/adorable_cute_child_with_microphone_hands_singing_songs_looks_camera_performing_isolated_yellow_background_child_arranging_concert_sings_karaoke_1.png');
+  background: url('./adorable_cute_child_with_microphone_hands_singing_songs_looks_camera_performing_isolated_yellow_background_child_arranging_concert_sings_karaoke_1.png');
   position: absolute;
   right: 83px;
   bottom: 1101px;
