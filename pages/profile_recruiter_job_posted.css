@@ -1,0 +1,1034 @@
+.profile-recruiter-job-posted .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.profile-recruiter-job-posted .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .community {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-13 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-29 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-26 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 86px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .jobs-posted {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-18 {
+  background: linear-gradient(90deg, #BB362A, #FFFFFF);
+  position: relative;
+  margin-bottom: 29px;
+  padding: 14px 31px 11px 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .hired {
+  margin: 0 208.9px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .draft {
+  margin: 0 214.6px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .archived {
+  margin: 0 169px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .your-profile {
+  margin-right: 137.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .container-21 {
+  box-shadow: 4px 0px 8px 0px rgba(187, 54, 42, 0.15);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 66px 345px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 901px 33px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .analytics {
+  margin: 0 5px 68px 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .container {
+  margin: 0 1px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .applied-for-the-jobs-you-posted {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-12 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  margin-right: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 19px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-1 {
+  margin: 0 0 7px 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .people-shortlisted-your-job {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-33 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  margin-right: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 19px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-2 {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .people-shared-the-job-you-posted {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-23 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 19px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-30 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  width: 979px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .music-video-kid {
+  margin: 0 3.2px 11px 3.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 36px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .delhi {
+  margin: 0 3.2px 22px 3.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .looking-for-adynamic-child-performer-for-amusic-video-must-be-able-to-dance-and-act-in-sync-with-the-music-and-storyline {
+  margin: 0 0 29px 3.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .applied-by-1-st-may-20-xx {
+  margin: 0 3.2px 19px 3.2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.applied-by-1-st-may-20-xx-sub6 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .see-applicants {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-5 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  margin: 0 0.2px 23.5px 0.2px;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 6.2px 7px 6.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .edit-post {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .group-89 {
+  display: flex;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-20 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 10.3px;
+  display: flex;
+  padding: 6.5px 9.7px 6.5px 9.5px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .archive {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-17 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 6.8px;
+  display: flex;
+  padding: 6.5px 9.7px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .stop-applications {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-35 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 4.8px;
+  display: flex;
+  padding: 5.5px 13.2px 7.5px 13.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .delete-post {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-11 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  padding: 6.5px 15.3px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-24 {
+  border-radius: 12px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 18.2px 18.5px 37.8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .music-video-kid-1 {
+  margin: 0 3.2px 11px 3.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 36px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .delhi-1 {
+  margin: 0 3.2px 22px 3.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .looking-for-adynamic-child-performer-for-amusic-video-must-be-able-to-dance-and-act-in-sync-with-the-music-and-storyline-1 {
+  margin: 0 0 29px 3.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .applied-by-1-st-may-20-xx-1 {
+  margin: 0 3.2px 19px 3.2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.applied-by-1-st-may-20-xx-1-sub6 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .see-applicants-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-6 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  margin: 0 0.2px 21.5px 0.2px;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 6.2px 7px 6.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .edit-post-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .group-90 {
+  display: flex;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-10 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 10.3px;
+  display: flex;
+  padding: 6.5px 9.7px 6.5px 9.5px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .archive-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 6.8px;
+  display: flex;
+  padding: 6.5px 9.7px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .stop-applications-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-14 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 4.8px;
+  display: flex;
+  padding: 5.5px 13.2px 7.5px 13.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .delete-post-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-22 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  padding: 6.5px 15.3px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-9 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-8 {
+  border-radius: 12px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 18.2px 20.5px 37.8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .music-video-kid-2 {
+  margin: 0 3px 11px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 36px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .delhi-2 {
+  margin: 0 3px 22px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .looking-for-adynamic-child-performer-for-amusic-video-must-be-able-to-dance-and-act-in-sync-with-the-music-and-storyline-2 {
+  margin: 0 0 29px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.profile-recruiter-job-posted .applied-by-1-st-may-20-xx-2 {
+  margin: 0 3px 19px 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.applied-by-1-st-may-20-xx-2-sub6 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .see-applicants-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-27 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  margin-bottom: 22.5px;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 6.2px 7px 6.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .edit-post-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .group-91 {
+  display: flex;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-15 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 10.3px;
+  display: flex;
+  padding: 6.5px 9.7px 6.5px 9.5px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .archive-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-2 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 6.8px;
+  display: flex;
+  padding: 6.5px 9.7px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .stop-applications-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-32 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  margin-right: 4.8px;
+  display: flex;
+  padding: 5.5px 13.2px 7.5px 13.2px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .delete-post-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-4 {
+  border-radius: 8.8px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  padding: 6.5px 15.3px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-39 {
+  margin: 0 0.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-16 {
+  border-radius: 12px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 18.2px 19.5px 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-34 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .container-19 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .vector-221 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 365px;
+  top: 0px;
+  width: 0px;
+  height: 56px;
+}
+.profile-recruiter-job-posted .container-40 {
+  position: relative;
+  margin: 0 60px 150px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.profile-recruiter-job-posted .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .container-7 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .casting-calls {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-25 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .join-our-community {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-38 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .agencies {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-1 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .popular-auditions {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-37 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .post-ajob-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .container-36 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .find-talent-1 {
+  position: relative;
+  margin: 0 177.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .partners-1 {
+  position: relative;
+  margin: 0 206.4px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.profile-recruiter-job-posted .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.profile-recruiter-job-posted .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.profile-recruiter-job-posted .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.profile-recruiter-job-posted .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.profile-recruiter-job-posted .container-31 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.profile-recruiter-job-posted .container-28 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted .group-131 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-recruiter-job-posted {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}

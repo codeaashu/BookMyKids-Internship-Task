@@ -1,0 +1,1487 @@
+.community-1 .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.community-1 .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .community-1 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.community-1 .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.community-1 .container-26 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.community-1 .container-49 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .container-19 {
+  background: #000000;
+  position: relative;
+  margin: 0 0 37px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.community-1 .ellipse-27 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 40.5px;
+  background: url('../assets/images/ellipse_27.png') 50% / cover no-repeat;
+  margin-right: 27px;
+  width: 81px;
+  height: 81px;
+}
+.community-1 .start-apost {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #9E9E9E;
+}
+.community-1 .container-39 {
+  box-shadow: inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 36px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 4px 0 5px 0;
+  padding: 25px 35px 23px 35px;
+  width: 1150px;
+  box-sizing: border-box;
+}
+.community-1 .container-38 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .video-gallery {
+  background: url('../assets/images/video_gallery.png') 50% / contain no-repeat;
+  margin-right: 1.3px;
+  width: 35.8px;
+  height: 35.8px;
+}
+.community-1 .media {
+  margin: 7px 0 4.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 19.2px;
+  color: #BB362A;
+}
+.community-1 .group-122 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25), inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 6.4px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 3.2px 12.3px 3.2px 5.8px;
+  box-sizing: border-box;
+}
+.community-1 .today {
+  background: url('../assets/images/today.png') 50% / contain no-repeat;
+  margin-right: 1.9px;
+  width: 35.8px;
+  height: 35.8px;
+}
+.community-1 .event {
+  margin: 7px 0 4.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 19.2px;
+  color: #BB362A;
+}
+.community-1 .group-120 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25), inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 6.4px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 3.2px 9.4px 3.2px 8.4px;
+  box-sizing: border-box;
+}
+.community-1 .edit-text-file {
+  background: url('../assets/images/edit_text_file.png') 50% / contain no-repeat;
+  margin-right: 3.1px;
+  width: 32.8px;
+  height: 32.8px;
+}
+.community-1 .article {
+  margin: 4.5px 0 4.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 19.2px;
+  color: #BB362A;
+}
+.community-1 .group-119 {
+  box-shadow: inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25), 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 6.4px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5.1px 7.5px 4.4px 9px;
+  box-sizing: border-box;
+}
+.community-1 .staff {
+  background: url('../assets/images/staff.png') 50% / contain no-repeat;
+  margin-right: 5.1px;
+  width: 35.8px;
+  height: 35.8px;
+}
+.community-1 .job-post {
+  margin: 6.4px 0 5.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 19.2px;
+  color: #BB362A;
+}
+.community-1 .group-118 {
+  box-shadow: inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25), 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 6.4px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 3.2px 4.4px 3.2px 5.1px;
+  box-sizing: border-box;
+}
+.community-1 .frame-31 {
+  margin-right: 1.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1256.4px;
+  box-sizing: border-box;
+}
+.community-1 .container-44 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  border: 1px solid #000000;
+  background: #555658;
+  position: relative;
+  margin: 0 50px 139px 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 34px 41px 52.8px 43px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .conversations {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .container-46 {
+  box-shadow: 4px 0px 8px 0px rgba(187, 54, 42, 0.15);
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 45px;
+  display: flex;
+  padding: 43px 122.6px 0 0;
+  width: 444px;
+  height: 2086px;
+  box-sizing: border-box;
+}
+.community-1 .image-1 {
+  border-radius: 105px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 94px;
+  height: 94px;
+}
+.community-1 .rishabh-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .mooi-productions {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .jan-20242 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .container-9 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-55 {
+  margin-bottom: 59px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-2 {
+  margin-bottom: 83px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.community-1 .heart-2 {
+  background: url('../assets/images/heart.png') 50% / contain no-repeat;
+  margin-right: 4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .liked-by-37-people {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #BB362A;
+}
+.community-1 .container-3 {
+  margin: 0 9px 50px 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .heart {
+  background: url('../assets/images/heart.png') 50% / contain no-repeat;
+  margin: 0 3.2px 2px 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .like-2 {
+  margin: 0.5px 12px 1.5px 0;
+  display: inline-block;
+  width: 55px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .speech-bubble {
+  background: url('../assets/images/speech_bubble.png') 50% / contain no-repeat;
+  margin: 0.5px 2.4px 0 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .comment-2 {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-27 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .forward-arrow {
+  background: url('../assets/images/forward_arrow.png') 50% / contain no-repeat;
+  margin-right: 1.9px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .share-2 {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-22 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .bookmark {
+  background: url('../assets/images/bookmark.png') 50% / contain no-repeat;
+  margin-right: 2.4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .save-2 {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-5 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .frame-28 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1177px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .container-25 {
+  margin-left: 14.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 670.6px;
+  box-sizing: border-box;
+}
+.community-1 .container-42 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.4px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 44px 67.6px 64px 35px;
+  box-sizing: border-box;
+}
+.community-1 .vector-208 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #000000;
+  position: absolute;
+  left: 50px;
+  right: 42px;
+  bottom: 129.6px;
+  height: 0px;
+}
+.community-1 .container-47 {
+  position: relative;
+  margin-bottom: 50px;
+  display: flex;
+  box-sizing: border-box;
+}
+.community-1 .image-2 {
+  border-radius: 105px;
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 94px;
+  height: 94px;
+}
+.community-1 .avni {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .model {
+  margin-bottom: 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .jan-2024 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .container-13 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-6 {
+  margin-bottom: 59px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation {
+  margin-bottom: 83px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.community-1 .heart-3 {
+  background: url('../assets/images/heart.png') 50% / contain no-repeat;
+  margin-right: 4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .liked-by-224-people {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #BB362A;
+}
+.community-1 .container-50 {
+  margin: 0 9px 51px 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .heart-1 {
+  background: url('../assets/images/heart_1.png') 50% / contain no-repeat;
+  margin: 0.5px 1.2px 0 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .like {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-15 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .speech-bubble-1 {
+  background: url('../assets/images/speech_bubble.png') 50% / contain no-repeat;
+  margin: 0.5px 2.4px 0 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .comment {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-57 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .forward-arrow-1 {
+  background: url('../assets/images/forward_arrow.png') 50% / contain no-repeat;
+  margin-right: 1.9px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .share {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-16 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .bookmark-1 {
+  background: url('../assets/images/bookmark.png') 50% / contain no-repeat;
+  margin-right: 2.4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .save {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-21 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .frame-29 {
+  margin-left: 16.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 1177px;
+  box-sizing: border-box;
+}
+.community-1 .container-14 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.4px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 44px 67.6px 64px 35px;
+  box-sizing: border-box;
+}
+.community-1 .vector-209 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #000000;
+  position: absolute;
+  left: 50px;
+  right: 42px;
+  bottom: 129.6px;
+  height: 0px;
+}
+.community-1 .container-53 {
+  position: relative;
+  margin-bottom: 50px;
+  display: flex;
+  box-sizing: border-box;
+}
+.community-1 .image-3 {
+  border-radius: 105px;
+  background: url('../assets/images/image_3.png');
+  margin-right: 12px;
+  width: 94px;
+  height: 94px;
+}
+.community-1 .arjun {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .vs-productions {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .jan-20241 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.community-1 .container-43 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-40 {
+  margin-bottom: 59px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-1 {
+  margin-bottom: 83px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.community-1 .heart-4 {
+  background: url('../assets/images/heart.png') 50% / contain no-repeat;
+  margin-right: 4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .liked-by-10-people {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #BB362A;
+}
+.community-1 .container-35 {
+  margin: 0 9px 50px 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .heart-5 {
+  background: url('../assets/images/heart.png') 50% / contain no-repeat;
+  margin: 0 3.2px 2px 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .like-1 {
+  margin: 0.5px 12px 1.5px 0;
+  display: inline-block;
+  width: 55px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .speech-bubble-2 {
+  background: url('../assets/images/speech_bubble.png') 50% / contain no-repeat;
+  margin: 0.5px 2.4px 0 0;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .comment-1 {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-51 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .forward-arrow-2 {
+  background: url('../assets/images/forward_arrow.png') 50% / contain no-repeat;
+  margin-right: 1.9px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .share-1 {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-28 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .bookmark-2 {
+  background: url('../assets/images/bookmark.png') 50% / contain no-repeat;
+  margin-right: 2.4px;
+  width: 25px;
+  height: 25px;
+}
+.community-1 .save-1 {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.community-1 .container-18 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .frame-30 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1177px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .container-48 {
+  margin-left: 14.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 670.6px;
+  box-sizing: border-box;
+}
+.community-1 .container-11 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.4px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 44px 67.6px 64px 35px;
+  box-sizing: border-box;
+}
+.community-1 .vector-210 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #000000;
+  position: absolute;
+  left: 50px;
+  right: 42px;
+  bottom: 129.6px;
+  height: 0px;
+}
+.community-1 .container-10 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.community-1 .container-37 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.community-1 .container-54 {
+  margin: 0 49px 125px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.community-1 .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.community-1 .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.community-1 .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.community-1 .container-24 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.community-1 .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .casting-calls {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .container-31 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.community-1 .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .join-our-community {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .container-32 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.community-1 .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .agencies {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .container-56 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.community-1 .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .popular-auditions {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .container-1 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.community-1 .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .post-ajob-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .container-33 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.community-1 .find-talent-1 {
+  position: relative;
+  margin: 0 177.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .partners-1 {
+  position: relative;
+  margin: 0 206.4px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.community-1 .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.community-1 .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.community-1 .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.community-1 .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.community-1 .container-34 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.community-1 .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.community-1 .container-29 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.community-1 .group-131 {
+  background: #000000;
+  position: relative;
+  margin-left: 3px;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .container-52 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1443px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.community-1 .rishabh {
+  margin-right: 18.5px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .am-4 {
+  position: relative;
+  margin: 3px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 373px;
+  box-sizing: border-box;
+}
+.community-1 .imight-know-someone {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 18px;
+  color: #000000;
+}
+.community-1 .container-58 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-3 {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-7 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: absolute;
+  left: -18px;
+  top: 940px;
+  display: flex;
+  padding: 10px 20px 11px 20px;
+  width: 459px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.community-1 .khyati {
+  margin-right: 18.5px;
+  width: 124px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .am-3 {
+  position: relative;
+  margin: 3px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 373px;
+  box-sizing: border-box;
+}
+.community-1 .thankyou {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 18px;
+  color: #000000;
+}
+.community-1 .container-20 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-2 {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-17 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: absolute;
+  left: -18px;
+  top: 861px;
+  display: flex;
+  padding: 9px 20px 12px 20px;
+  width: 459px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.community-1 .chandni {
+  margin-right: 18.5px;
+  width: 150px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .am-2 {
+  position: relative;
+  margin: 3px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-23 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 373px;
+  box-sizing: border-box;
+}
+.community-1 .audition-at-5 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 18px;
+  color: #000000;
+}
+.community-1 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container-1 {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-4 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: absolute;
+  left: -18px;
+  top: 782px;
+  display: flex;
+  padding: 9px 20px 11px 20px;
+  width: 459px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.community-1 .rima {
+  margin-right: 18.5px;
+  width: 143px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .am-1 {
+  position: relative;
+  margin: 3px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 373px;
+  box-sizing: border-box;
+}
+.community-1 .any-update {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 18px;
+  color: #BB362A;
+}
+.community-1 .container-41 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.community-1 .container {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-12 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: absolute;
+  left: -18px;
+  top: 703px;
+  display: flex;
+  padding: 9px 20px 12px 20px;
+  width: 459px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.community-1 .rahul {
+  margin-right: 18.5px;
+  width: 124px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #BB362A;
+}
+.community-1 .am {
+  margin: 10px 0 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 16px;
+  color: #BB362A;
+}
+.community-1 .container-36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 373px;
+  box-sizing: border-box;
+}
+.community-1 .hey-how-are-you {
+  margin-right: 208px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 18px;
+  color: #000000;
+}
+.community-1 .container-45 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: absolute;
+  left: -18px;
+  top: 624px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 9px 20px 12px 0;
+  width: 459px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.community-1-1 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
