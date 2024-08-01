@@ -1,0 +1,1442 @@
+@font-face {
+  font-family: "heading";
+  src: url("../assets/fonts/coolvetica\ rg.otf") format("truetype");
+}
+
+.landing-page .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.landing-page .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .find-job a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .find-talent a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .post-ajob a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.landing-page .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .shortlist a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .community {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.landing-page .community a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.landing-page .login-signup a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .container-15 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.landing-page .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .container-20 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 127px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1510px;
+  box-sizing: border-box;
+}
+.landing-page .casting-the-stars-of-tomorrow {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "heading";
+  font-weight: 400;
+  font-size: 40px;
+  color: #BB362A;
+}
+.landing-page .at-book-my-kids-we-discover-and-nurture-young-talent-connecting-aspiring-actors-and-models-with-opportunities-to-shine {
+  margin: 0 0 67px 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 26px;
+  color: #000000;
+}
+.landing-page .join-now {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  padding-left: 80px;
+  font-weight: 600;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.landing-page .join-now a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.landing-page .container-13 {
+  border-radius: 12px;
+  background: #BB362A;
+  position: relative;
+  margin: 0 4px;
+  display: flex;
+  align-self: flex-start;
+  padding: 13px 0 13px 1px;
+  width: 290px;
+  box-sizing: border-box;
+}
+.landing-page .container-22 {
+  margin: 11px 73.4px 38px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .surprised-girl-standing-front-stage-light-holding-scripts-1 {
+  border-radius: 12px;
+  background: url('../assets/images/surprised_girl_standing_front_stage_light_holding_scripts_1.jpeg') 50% / cover no-repeat;
+  width: 510px;
+  height: 340px;
+}
+.landing-page .container-3 {
+  margin: 0 121px 202px 101px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .join-bookmykids-and-start-your-journey-to-stardom {
+  margin: 0 101px 38px 101px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 40px;
+  color: #BB362A;
+}
+.landing-page .book-my-kids-is-your-premier-casting-platform-dedicated-to-discovering-and-nurturing-young-talent-we-connect-aspiring-child-actors-models-and-performers-with-top-tier-auditions-and-casting-opportunities-in-the-entertainment-industry-our-expert-team-ensures-aseamless-process-from-talent-discovery-to-stardom-providing-the-support-and-resources-needed-for-your-child-to-shine-join-book-my-kids-today-and-watch-your-childs-dreams-come-to-life-on-the-big-stage {
+  margin: 0 101px 117px 101px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.landing-page .featured-job {
+  margin-right: 24px;
+  width: 259px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.2;
+  color: #BB362A;
+}
+.landing-page .view-all {
+  margin-right: 12.7px;
+  margin-left: 28.9px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #BB362A;
+}
+.landing-page .fiarrow-right-4 {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-8 {
+  border-radius: 3px;
+  border: 1px solid #555658;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0;
+  width: 151px;
+  box-sizing: border-box;
+}
+.landing-page .heading-8 {
+  margin: 0 104px 64px 103.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .image-4 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 46px;
+  height: 46px;
+}
+.landing-page .employers-logo {
+  border-radius: 6px;
+  background: #6FDA44;
+  margin-right: 20px;
+  display: flex;
+  padding: 20px;
+  width: 86px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.landing-page .garba-dancers {
+  margin-right: 8.9px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--gray-scale-900, #191F33);
+}
+.landing-page .dancer {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.landing-page .badge {
+  border-radius: 52px;
+  background: #BB362A;
+  margin: 3px 0;
+  display: flex;
+  padding: 3px 12.9px 3px 12px;
+  box-sizing: border-box;
+}
+.landing-page .heading-1 {
+  margin: 0 24.7px 14px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .fimap-pin {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .mumbai {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .loaction {
+  margin-right: 16.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .calendar-blank-11 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .days-remaining {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .price {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .info-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .heading {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.landing-page .info {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .vector-19 {
+  width: 14px;
+  height: 18px;
+}
+.landing-page .icon-button {
+  border-radius: 5px;
+  
+  margin: 15px 29px 15px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.landing-page .appley-now {
+  margin-right: 12.3px;
+  margin-left: 12.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.landing-page .fiarrow-right {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-1 {
+  border-radius: 3px;
+  background: #BB362A;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0;
+  height: 50px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.landing-page .button {
+  margin: 19px 0;
+  display: flex;
+  flex-direction: row;
+  width: 244px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .job-1 {
+  border-radius: 12px;
+  border: 1px solid var(--gray-scale-50, #EDEFF5);
+  background: var(--gray-scale-white, #FFFFFF);
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .image-5 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  width: 49px;
+  height: 49px;
+}
+.landing-page .employers-logo-1 {
+  border-radius: 6px;
+  background: #000000;
+  margin-right: 20px;
+  display: flex;
+  padding: 20px 17px 17px 20px;
+  width: 86px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.landing-page .clothing-commercial {
+  margin-right: 8.4px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--gray-scale-900, #191F33);
+}
+.landing-page .acting {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.landing-page .badge-1 {
+  border-radius: 52px;
+  background: #BB362A;
+  margin: 3px 0;
+  display: flex;
+  padding: 3px 12.5px 3px 12px;
+  box-sizing: border-box;
+}
+.landing-page .heading-3 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .fimap-pin-1 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .delhi {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .loaction-1 {
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .calendar-blank-111 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .days-remaining-1 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .price-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .info-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .heading-2 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .info-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .vector-24 {
+  width: 14px;
+  height: 18px;
+}
+.landing-page .icon-button-1 {
+  border-radius: 5px;
+  margin: 15px 29px 15px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.landing-page .appley-now-1 {
+  margin-right: 12.3px;
+  margin-left: 12.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  
+}
+.landing-page .fiarrow-right-1 {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-3 {
+  border-radius: 3px;
+  background: #BB362A;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0;
+  height: 50px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.landing-page .button-2 {
+  margin: 19px 0;
+  display: flex;
+  flex-direction: row;
+  width: 244px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .job-2 {
+  border-radius: 12px;
+  border: 1px solid var(--gray-scale-50, #EDEFF5);
+  background: var(--gray-scale-white, #FFFFFF);
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .vector-8 {
+  width: 28px;
+  height: 23px;
+}
+.landing-page .employers-logo-2 {
+  border-radius: 6px;
+  background: #EB524F;
+  margin-right: 20px;
+  display: flex;
+  padding: 22.5px 20px;
+  width: 68px;
+  height: 68px;
+  box-sizing: border-box;
+}
+.landing-page .model-for-kids-bag-brand {
+  margin-right: 8.3px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--gray-scale-900, #191F33);
+}
+.landing-page .modelling {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.landing-page .badge-2 {
+  border-radius: 52px;
+  background: #BB362A;
+  margin: 3px 0;
+  display: flex;
+  padding: 3px 12.5px 3px 12px;
+  box-sizing: border-box;
+}
+.landing-page .heading-5 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .fimap-pin-2 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .pune {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .loaction-2 {
+  margin-right: 16.6px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .calendar-blank-112 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .days-remaining-2 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .price-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .info-5 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .heading-4 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .info-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .vector-29 {
+  width: 14px;
+  height: 18px;
+}
+.landing-page .icon-button-2 {
+  border-radius: 5px;
+  margin: 15px 29px 15px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.landing-page .appley-now-2 {
+  margin-right: 12.3px;
+  margin-left: 12.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.landing-page .fiarrow-right-2 {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-5 {
+  border-radius: 3px;
+  background: #BB362A;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0;
+  height: 50px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.landing-page .button-4 {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: row;
+  width: 244px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .job-3 {
+  border-radius: 12px;
+  border: 1px solid var(--gray-scale-50, #EDEFF5);
+  background: var(--gray-scale-white, #FFFFFF);
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 70px;
+  height: 61px;
+}
+.landing-page .employers-logo-3 {
+  border-radius: 6px;
+  background: #1877F2;
+  margin-right: 20px;
+  display: flex;
+  padding: 12.5px 8px;
+  width: 86px;
+  height: 86px;
+  box-sizing: border-box;
+}
+.landing-page .tv-series {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--gray-scale-900, #191F33);
+}
+.landing-page .acting-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #FFFFFF;
+}
+.landing-page .badge-3 {
+  border-radius: 52px;
+  background: #BB362A;
+  margin: 3px 0;
+  display: flex;
+  padding: 3px 12.5px 3px 12px;
+  box-sizing: border-box;
+}
+.landing-page .heading-7 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .fimap-pin-3 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .mumbai-1 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .loaction-3 {
+  margin-right: 16.9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .calendar-blank-113 {
+  margin-right: 6px;
+  width: 22px;
+  height: 22px;
+}
+.landing-page .days-remaining-3 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--gray-scale-600, #636A80);
+}
+.landing-page .price-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .info-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .heading-6 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .info-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .vector-34 {
+  width: 14px;
+  height: 18px;
+}
+.landing-page .icon-button-3 {
+  border-radius: 5px;
+  margin: 15px 29px 15px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.landing-page .appley-now-3 {
+  margin-right: 12.3px;
+  margin-left: 12.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.landing-page .fiarrow-right-3 {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-7 {
+  border-radius: 3px;
+  background: #BB362A;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0;
+  height: 50px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.landing-page .button-6 {
+  margin: 19px 0;
+  display: flex;
+  flex-direction: row;
+  width: 244px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .job-4 {
+  border-radius: 12px;
+  border: 1px solid var(--gray-scale-50, #EDEFF5);
+  background: var(--gray-scale-white, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .job {
+  border-radius: 12px;
+  margin: 0 104px 86px 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .connect-collaborate-and-grow-with-fellow-actors-models-and-creatives-share-insights-spark-discussions-and-forge-valuable-connections-in-our-network-elevate-your-craft-and-expand-your-horizons-with-like-minded-artists-today {
+  margin-right: 54px;
+  width: 781px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .join-our-community-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 5px;
+  color: #FFFFFF;
+}
+.landing-page .container-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F45143);
+  position: relative;
+  margin: 32px 0;
+  display: flex;
+  padding: 4px 12.2px 6px 18.2px;
+  box-sizing: border-box;
+}
+.landing-page .container-16 {
+  border-radius: 12px;
+  background: linear-gradient(90deg, #010610, #555658);
+  position: relative;
+  margin: 0 104px 67px 103px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 54px 56px 56px 44px;
+  width: 1233px;
+  box-sizing: border-box;
+}
+.landing-page .need-talent-for-your-project-weve-got-you-covered {
+  margin: 6px 20.5px 1px 0;
+  display: inline-block;
+  width: 952px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 34px;
+  color: #BB362A;
+}
+.landing-page .view-all-1 {
+  margin-right: 12.7px;
+  margin-left: 28.9px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #BB362A;
+}
+.landing-page .fiarrow-right-5 {
+  width: 24px;
+  height: 24px;
+}
+.landing-page .button-9 {
+  border-radius: 3px;
+  border: 1px solid #555658;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0;
+  width: 151px;
+  box-sizing: border-box;
+}
+.landing-page .container-19 {
+  margin: 0 99px 65px 101px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.landing-page .actors {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.landing-page .file-21 {
+  background: url('../assets/images/file_21.png');
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 232px;
+  height: 284px;
+}
+.landing-page .container-10 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(180deg, #555658, #B8BABE);
+  position: relative;
+  margin-right: 110px;
+  padding: 32px 31px 0 31px;
+  width: 330px;
+  height: 284px;
+  box-sizing: border-box;
+}
+.landing-page .footer-2 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 1px;
+  translate: -50% 0;
+  width: 330px;
+  height: 282px;
+}
+.landing-page .models {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.landing-page .container-12 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(180deg, #555658, #B8BABE);
+  position: relative;
+  margin-right: 140px;
+  display: flex;
+  padding: 32px 148.1px 0 0;
+  width: 330px;
+  height: 284px;
+  box-sizing: border-box;
+}
+.landing-page .footer-3 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 1px;
+  translate: -50% 0;
+  width: 330px;
+  height: 282px;
+}
+.landing-page .voiceover-artists {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.landing-page .container-5 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(180deg, #555658, #B8BABE);
+  position: relative;
+  padding: 32px 32px 0 32px;
+  width: 330px;
+  height: 284px;
+  box-sizing: border-box;
+}
+.landing-page .container-2 {
+  margin: 0 99px 123px 101px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .explore-aworld-of-talent-for-your-project-from-actors-to-models-voice-over-artists-freelancers-and-crew-members-find-your-perfect-fit-to-bring-your-project-to-life-with-flair-and-finesse {
+  margin-right: 54.7px;
+  width: 745px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .post-ajob-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 28px;
+  padding-left: 65px;
+  color: #FFFFFF;
+}
+.landing-page .container-7 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  margin: 18px 0 19px 0;
+  display: flex;
+  padding: 3px 12.2px 7px 18.2px;
+  width: 310px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .container-8 {
+  border-radius: 12px;
+  background: linear-gradient(90deg, #010610, #555658);
+  position: relative;
+  margin: 0 99px 148px 101px;
+  display: flex;
+  flex-direction: row;
+  padding: 79px 70px 80px 54px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.landing-page .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.landing-page .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.landing-page .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.landing-page .container-6 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.landing-page .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .casting-calls {
+  margin: 0 104.2px 9px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .container-9 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.landing-page .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .join-our-community {
+  margin: 0 20.2px 9px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .container-18 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.landing-page .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .agencies {
+  margin: 0 146.2px 9px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .container {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.landing-page .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .popular-auditions {
+  margin: 0 54.2px 9px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .contact-us-1 {
+  margin-right: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .container-23 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.landing-page .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .post-ajob-1 {
+  margin: 0 140.2px 9px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .container-4 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.landing-page .find-talent-1 {
+  position: relative;
+  margin: 0 654.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .partners-1 {
+  position: relative;
+  margin: 0 684.2px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.landing-page .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.landing-page .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.landing-page .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.landing-page .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.landing-page .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.landing-page .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.landing-page .container-21 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.landing-page .group-132 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: 1510px;
+  box-sizing: border-box;
+}
+.landing-page .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall-kids-fashion-concept-1 {
+  background: url('../assets/images/portrait_cute_little_kid_boy_stylish_jeans_clothes_looking_camera_against_white_studio_wall_kids_fashion_concept_1.png');
+  position: absolute;
+  right: 532px;
+  bottom: 1101px;
+  width: 257px;
+  height: 291px;
+}
+.landing-page .adorable-cute-child-with-microphone-hands-singing-songs-looks-camera-performing-isolated-yellow-background-child-arranging-concert-sings-karaoke-1 {
+  background: url('../assets/images/adorable_cute_child_with_microphone_hands_singing_songs_looks_camera_performing_isolated_yellow_background_child_arranging_concert_sings_karaoke_1.png');
+  position: absolute;
+  right: 83px;
+  bottom: 1101px;
+  width: 209px;
+  height: 280px;
+}
+.landing-page {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
