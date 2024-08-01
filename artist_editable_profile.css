@@ -1,0 +1,1430 @@
+.artist-editable-profile .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.artist-editable-profile .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .community {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-28 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-27 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-19 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 119px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .applied {
+  margin: 0 183.5px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-editable-profile .in-progress {
+  margin: 0 142.4px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-editable-profile .completed {
+  margin: 0 142.5px 26px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-editable-profile .your-profile {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-53 {
+  background: linear-gradient(90deg, #BB362A, #FFFFFF);
+  position: relative;
+  padding: 14px 31px 11px 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-36 {
+  box-shadow: 4px 0px 8px 0px rgba(187, 54, 42, 0.15);
+  background: #FFFFFF;
+  position: relative;
+  margin: 2px 57px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 14px 0 959px 31px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-12 {
+  position: relative;
+  width: 351.5px;
+  height: 325.5px;
+}
+.artist-editable-profile .scarf-333904919201 {
+  background: url('../assets/images/scarf_333904919202.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 0.5px;
+  translate: -50% 0;
+  width: 354px;
+  height: 325px;
+}
+.artist-editable-profile .container-13 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 47.5px 3px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0.5px 1.5px 0 1px;
+  width: 354px;
+  height: 326px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .actor {
+  margin: 2.4px 8px 2.6px 0;
+  display: inline-block;
+  width: 44.4px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 13.2px;
+  color: #BB362A;
+}
+.artist-editable-profile .model {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 13.2px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-23 {
+  border-radius: 9.6px;
+  border: 0.6px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 2.4px 0 2.6px 0.6px;
+  width: 94.2px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 169.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .rectangle-155 {
+  border-radius: 9.6px;
+  border: 0.6px solid #000000;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 94.2px;
+  height: 21px;
+}
+.artist-editable-profile .group-91 {
+  border-radius: 9.6px;
+  position: relative;
+  margin: 0 3px 14.5px 3px;
+  display: flex;
+  align-self: flex-start;
+  width: 196.2px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .kabir {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-editable-profile .mumbai-maharashtra {
+  margin-bottom: 42px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.artist-editable-profile .yrs {
+  margin: 0.5px 13.5px 0 0;
+  width: 102px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.yrs-sub4 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.artist-editable-profile .cm {
+  margin-top: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.cm-sub3 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.artist-editable-profile .kg {
+  margin-bottom: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.kg-sub3 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.artist-editable-profile .male {
+  margin-top: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-34 {
+  margin: 0 90.7px 36.5px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 845.4px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .bio {
+  margin-right: 5.3px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .edit-4 {
+  background: url('../assets/images/edit.png') 50% / contain no-repeat;
+  margin: 4px 0 1px 0;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-31 {
+  margin: 0 3px 4px 3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam {
+  margin: 0 25.5px 36px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .skills {
+  margin: 0 3px 15px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .memorization {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-42 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 17.6px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .expression {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-41 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 15.2px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .improvisation {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-3 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 10.3px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .stage-presence {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-2 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 10.7px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .dancing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-20 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 14.8px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .singing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-21 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  margin-bottom: 0.3px;
+  display: flex;
+  padding: 3px 0.3px 2.7px 0;
+  width: 124.3px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-18 {
+  margin: 0 24.7px 12px 3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .posing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-47 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 17.7px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .voice-modulation {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-29 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 9px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .coordination {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-8 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 8.7px 3px 9.7px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-30 {
+  margin: 0 3px 19px 3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-1963 {
+  background: #FFFFFF;
+  margin: 5px 11px 4px 0;
+  width: 0px;
+  height: 13px;
+}
+.artist-editable-profile .add-skill {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-22 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-1973 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 14px;
+  bottom: 13px;
+  width: 13px;
+  height: 0px;
+}
+.artist-editable-profile .container-1 {
+  border-radius: 6px;
+  background: #000000;
+  position: relative;
+  margin: 0 3px 32px 3px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 17.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .about {
+  margin: 0 4px 13px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .hi-im-kabir-ilove-acting-and-bringing-characters-to-life-whether-its-performing-in-front-of-acamera-or-walking-the-runway-ialways-give-my-best-in-my-free-time-ienjoy-dancing-playing-sports-and-spending-time-with-my-friends-im-excited-to-take-on-new-roles-and-challenges {
+  margin: 0 0 30px 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.artist-editable-profile .past-experiences {
+  margin: 0 3px 26px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-7 {
+  margin: 5px 17.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.tv-commercial-for-health-drink-2022-sub1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.artist-editable-profile .tv-commercial-for-health-drink-2022 {
+  margin: 0 2.8px 5px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .edit {
+  background: url('../assets/images/edit.png') 50% / contain no-repeat;
+  margin: 1px 0 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-9 {
+  margin: 0 3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .lead-child-actor {
+  margin: 0 33px 5px 33px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.artist-editable-profile .portrayed-an-energetic-and-enthusiastic-child-enjoying-arefreshing-health-drink-demonstrated-aconvincing-and-joyful-performance-capturing-the-essence-of-the-products-benefits {
+  margin: 0 0.6px 0 33px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.artist-editable-profile .container-50 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-52 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-221 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 365px;
+  top: 301px;
+  width: 0px;
+  height: 56px;
+}
+.artist-editable-profile .container-26 {
+  position: relative;
+  margin: 0 106.9px 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-8 {
+  margin: 5px 13.3px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .fashion-show-for-mumbai-fashion-2022 {
+  margin: 0 1.7px 5px 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.fashion-show-for-mumbai-fashion-2022-sub1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.artist-editable-profile .edit-1 {
+  background: url('../assets/images/edit.png') 50% / contain no-repeat;
+  margin: 2px 0 3px 0;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-11 {
+  margin: 0 174px 1px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .runway-model {
+  margin: 0 450.4px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.artist-editable-profile .walked-the-runway-showcasing-the-latest-kids-fashion-displayed-confidence-style-and-aplayful-attitude-that-resonated-with-the-audience-and-photographers {
+  margin: 0 126.1px 31px 126.1px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.artist-editable-profile .vector-1961 {
+  background: #FFFFFF;
+  margin: 5px 11px 4px 0;
+  width: 0px;
+  height: 13px;
+}
+.artist-editable-profile .add-experience {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-1971 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 6px;
+  bottom: 13.5px;
+  width: 13px;
+  height: 0px;
+}
+.artist-editable-profile .container-35 {
+  border-radius: 6px;
+  background: #000000;
+  position: relative;
+  margin: 0 469px 36px 0;
+  display: flex;
+  padding: 3.5px 7.8px 4.5px 13px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .certifications {
+  margin: 0 468.7px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-6 {
+  margin: 0 17.5px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .acting-workshop-completion-certificate-2023 {
+  margin: 0 1.6px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .edit-2 {
+  background: url('../assets/images/edit.png') 50% / contain no-repeat;
+  margin-top: 1px;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-37 {
+  margin: 0 97px 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .mumbai-acting-academy {
+  margin: 0 343px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.artist-editable-profile .successfully-completed-a-6-week-intensive-acting-workshop-focusing-on-improvisation-voice-modulation-and-stage-presence-learned-from-experienced-industry-professionals-and-participated-in-various-practical-exercises-and-performances {
+  margin: 0 129.1px 34px 129.1px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .vector-196 {
+  background: #FFFFFF;
+  margin: 5px 11px 4px 0;
+  width: 0px;
+  height: 13px;
+}
+.artist-editable-profile .add-certification {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-197 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 6px;
+  bottom: 13.5px;
+  width: 13px;
+  height: 0px;
+}
+.artist-editable-profile .container-45 {
+  border-radius: 6px;
+  background: #000000;
+  position: relative;
+  margin: 0 441px 38px 0;
+  display: flex;
+  padding: 3.5px 5.2px 4.5px 13px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .contact-information {
+  margin-right: 4.3px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.artist-editable-profile .edit-3 {
+  background: url('../assets/images/edit.png') 50% / contain no-repeat;
+  margin: 4px 0 1px 0;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-5 {
+  margin: 0 366px 27px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .phone-no {
+  margin-right: 12px;
+  width: 223px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container-38 {
+  margin: 0 16.1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 629.9px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .email-id {
+  margin-right: 12px;
+  width: 223px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .kabir-123-gmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container-25 {
+  margin: 0 0 7px 78.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 724.3px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .social-media-handle-instagram {
+  margin-right: 12px;
+  width: 417px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .kabir-0909 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container-51 {
+  margin: 0 18.1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 627.9px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .social-media-handle-1-youtube {
+  margin-right: 12px;
+  width: 417px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .kabir-k-0909 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container-10 {
+  margin: 0 11.6px 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 634.4px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .social-media-handle-2-x {
+  margin-right: 12px;
+  width: 417px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .kabirk-99 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.artist-editable-profile .container-6 {
+  margin: 0 41.9px 44.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 604.1px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .photos-videos {
+  margin: 0 486.3px 30.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-editable-profile .model-331609419201 {
+  border-radius: 20px;
+  background: url('../assets/images/model_331609419201.jpeg');
+  margin: 1px 19px 0 0;
+  width: 300px;
+  height: 278px;
+}
+.artist-editable-profile .boy-model-333904519201 {
+  border-radius: 20px;
+  background: url('../assets/images/boy_model_333904519201.jpeg') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 300px;
+  height: 279px;
+}
+.artist-editable-profile .kids-336219819201 {
+  border-radius: 20px;
+  background: url('../assets/images/kids_336219819201.jpeg');
+  width: 300px;
+  height: 279px;
+}
+.artist-editable-profile .container-40 {
+  margin: 0 105px 25px 105px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: 941px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .scarf-333904919202 {
+  border-radius: 20px;
+  background: url('../assets/images/scarf_333904919202.jpeg') 50% / cover no-repeat;
+  margin: 0 351px 16px 0;
+  width: 301px;
+  height: 277px;
+}
+.artist-editable-profile .vector-1962 {
+  background: #FFFFFF;
+  margin: 5px 14.6px 4px 0;
+  width: 0px;
+  height: 13px;
+}
+.artist-editable-profile .add-remove-photo-video {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-39 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .vector-1972 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 12px;
+  bottom: 13.5px;
+  width: 16.9px;
+  height: 0px;
+}
+.artist-editable-profile .container-33 {
+  border-radius: 6px;
+  background: #000000;
+  position: relative;
+  margin: 0 352px 41px 0;
+  display: flex;
+  padding: 3.5px 24.9px 4.5px 21.1px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .save-details {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-4 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  padding: 9px 0 6px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .update-documents {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-32 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background: linear-gradient(90deg, #BB362A, #F15042);
+  position: relative;
+  display: flex;
+  padding: 9px 6px 6px 6px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .container-17 {
+  margin: 0 191px 308px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.artist-editable-profile .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-editable-profile .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-editable-profile .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-editable-profile .container-43 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .casting-calls {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-46 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .join-our-community {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-24 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .agencies {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-15 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .popular-auditions {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-49 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .post-ajob-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .container-48 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.artist-editable-profile .find-talent-1 {
+  position: relative;
+  margin: 0 177.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .partners-1 {
+  position: relative;
+  margin: 0 206.4px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-editable-profile .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.artist-editable-profile .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.artist-editable-profile .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.artist-editable-profile .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.artist-editable-profile .container-44 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-editable-profile .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.artist-editable-profile .container-7 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.artist-editable-profile .group-131 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-editable-profile {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

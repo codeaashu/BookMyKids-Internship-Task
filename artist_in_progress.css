@@ -1,0 +1,656 @@
+.artist-in-progress .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.artist-in-progress .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .community {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.artist-in-progress .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.artist-in-progress .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-18 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.artist-in-progress .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-in-progress .container {
+  background: #000000;
+  position: relative;
+  margin-bottom: 91px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.artist-in-progress .applied {
+  margin: 0 183.5px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-in-progress .in-progress {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-2 {
+  background: linear-gradient(90deg, #BB362A, #FFFFFF);
+  position: relative;
+  margin-bottom: 27px;
+  padding: 12px 31px 13px 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-in-progress .completed {
+  margin: 0 142.5px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-in-progress .your-profile {
+  margin-right: 139.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.artist-in-progress .container-6 {
+  box-shadow: 4px 0px 8px 0px rgba(187, 54, 42, 0.15);
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 61px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 14px 0 970px 31px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.artist-in-progress .analytics {
+  margin: 0 3px 63px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-in-progress .container {
+  margin: 0 1px 7.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-in-progress .people-viewed-your-profile {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-11 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  margin-right: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 0 45.7px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.artist-in-progress .container-1 {
+  margin: 0 0 7.3px 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-in-progress .people-shortlisted-your-profile {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-10 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  margin-right: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 0 16.7px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.artist-in-progress .container-2 {
+  margin-bottom: 7.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-in-progress .people-shared-your-profile {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-19 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border: 0.4px solid #000000;
+  background: linear-gradient(180deg, #555658, #959596);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 0 45.7px 0;
+  width: 276px;
+  box-sizing: border-box;
+}
+.artist-in-progress .container-7 {
+  margin: 0 0 43px 3px;
+  display: flex;
+  flex-direction: row;
+  width: 979px;
+  box-sizing: border-box;
+}
+.artist-in-progress .jobs-in-progress {
+  margin: 0 3px 21px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.artist-in-progress .tv-commercial {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 36px;
+  color: #BB362A;
+}
+.artist-in-progress .delhi {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.artist-in-progress .seeking-acharismatic-child-actor-for-atv-commercial-must-deliver-lines-naturally-and-convey-emotions-convincingly-on-camera {
+  margin-bottom: 29px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.artist-in-progress .applied-on-1-st-jan-20-xx {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.applied-on-1-st-jan-20-xx-sub6 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.artist-in-progress .group-115 {
+  border-radius: 12px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 3px 16px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 0 29px 41px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-in-progress .complete {
+  margin: 0 21px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.artist-in-progress .container-8 {
+  margin-bottom: 506px;
+  display: flex;
+  flex-direction: column;
+  width: 982px;
+  box-sizing: border-box;
+}
+.artist-in-progress .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-in-progress .vector-221 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 365px;
+  top: 193px;
+  width: 0px;
+  height: 56px;
+}
+.artist-in-progress .container-17 {
+  position: relative;
+  margin: 0 60px 227px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.artist-in-progress .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.artist-in-progress .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-in-progress .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-in-progress .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.artist-in-progress .container-16 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.artist-in-progress .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .casting-calls {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-4 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.artist-in-progress .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .join-our-community {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-13 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.artist-in-progress .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .agencies {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-9 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.artist-in-progress .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .popular-auditions {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-15 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.artist-in-progress .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .post-ajob-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .container-14 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.artist-in-progress .find-talent-1 {
+  position: relative;
+  margin: 0 177.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .partners-1 {
+  position: relative;
+  margin: 0 206.4px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.artist-in-progress .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.artist-in-progress .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.artist-in-progress .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.artist-in-progress .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.artist-in-progress .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.artist-in-progress .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.artist-in-progress .container-12 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.artist-in-progress .group-131 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.artist-in-progress {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}

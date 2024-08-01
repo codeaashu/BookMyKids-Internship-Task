@@ -1,0 +1,1248 @@
+.actor-profile .straight-logo-1 {
+  background: url('../assets/images/straight_logo_1.png') 50% / cover no-repeat;
+  margin: 9px 0 6.4px 0;
+  width: 210px;
+  height: 33.6px;
+}
+.actor-profile .home {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .find-job {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .find-talent {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .post-ajob {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .shortlist {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .community {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.actor-profile .frame-1 {
+  margin: 15px 44.1px 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 762px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.actor-profile .login-signup {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.actor-profile .container-18 {
+  border-radius: 24px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 13px 9.7px 14px 12.7px;
+  box-sizing: border-box;
+}
+.actor-profile .container-43 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.actor-profile .container-46 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 93.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 13px 25px 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.actor-profile .rectangle-153 {
+  background: #D9D9D9;
+  margin: 0 38px 21.5px 0;
+  width: 354px;
+  height: 326px;
+}
+.actor-profile .actor {
+  margin: 2.4px 8px 2.6px 0;
+  display: inline-block;
+  width: 44.4px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 13.2px;
+  color: #BB362A;
+}
+.actor-profile .model {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 13.2px;
+  color: #BB362A;
+}
+.actor-profile .container-38 {
+  border-radius: 9.6px;
+  border: 0.6px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 2.4px 0 2.6px 0.6px;
+  width: 94.2px;
+  box-sizing: border-box;
+}
+.actor-profile .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 169.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.actor-profile .rectangle-155 {
+  border-radius: 9.6px;
+  border: 0.6px solid #000000;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 94.2px;
+  height: 21px;
+}
+.actor-profile .group-91 {
+  border-radius: 9.6px;
+  position: relative;
+  margin: 0 0.4px 15px 0.4px;
+  display: flex;
+  align-self: flex-start;
+  width: 196.2px;
+  box-sizing: border-box;
+}
+.actor-profile .kabir {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 40px;
+  color: #BB362A;
+}
+.actor-profile .mumbai-maharashtra {
+  margin-bottom: 19.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.actor-profile .yrs {
+  margin: 0.5px 13.5px 0 0;
+  width: 102px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.yrs-sub4 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #BB362A;
+}
+.actor-profile .cm {
+  margin-top: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.cm-sub3 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.actor-profile .kg {
+  margin-bottom: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.kg-sub3 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.actor-profile .male {
+  margin-top: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 22px;
+  color: #BB362A;
+}
+.actor-profile .container-9 {
+  margin: 0 81.6px 19px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 845.4px;
+  box-sizing: border-box;
+}
+.actor-profile .vector-213 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 18.2px;
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .bio {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .kabir-is-acharismatic-9-year-old-actor-and-model-with-anatural-talent-for-captivating-audiences {
+  margin: 0 78.9px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .vector-216 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 16.2px;
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .skills {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .container-30 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.actor-profile .container-35 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.actor-profile .scarf-333904919201 {
+  background: url('../assets/images/scarf_333904919202.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+  width: 354px;
+  height: 325px;
+}
+.actor-profile .container-50 {
+  position: relative;
+  margin: 0 76px 3px 45px;
+  display: flex;
+  box-sizing: border-box;
+}
+.actor-profile .contact-information {
+  margin: 0 14.5px 11px 0;
+  display: inline-block;
+  width: 260px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .memorization {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-41 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 17.6px;
+  box-sizing: border-box;
+}
+.actor-profile .expression {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-42 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 15.2px;
+  box-sizing: border-box;
+}
+.actor-profile .improvisation {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-22 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 10.3px;
+  box-sizing: border-box;
+}
+.actor-profile .stage-presence {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-12 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 10.7px;
+  box-sizing: border-box;
+}
+.actor-profile .dancing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-6 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 14.8px;
+  box-sizing: border-box;
+}
+.actor-profile .singing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-48 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  margin-bottom: 0.3px;
+  display: flex;
+  padding: 3px 0.3px 2.7px 0;
+  width: 124.3px;
+  box-sizing: border-box;
+}
+.actor-profile .container-25 {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 18px;
+  box-sizing: border-box;
+}
+.actor-profile .container-7 {
+  margin: 0 91.7px 7px 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1303.3px;
+  box-sizing: border-box;
+}
+.actor-profile .phone-no {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .container {
+  margin-right: 0.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .container-17 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.actor-profile .posing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-26 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 17.7px;
+  box-sizing: border-box;
+}
+.actor-profile .voice-modulation {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-10 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 9px;
+  box-sizing: border-box;
+}
+.actor-profile .coordination {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 17.4px;
+  color: #FFFFFF;
+}
+.actor-profile .container-28 {
+  border-radius: 12.7px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 3px 8.7px 3px 9.7px;
+  box-sizing: border-box;
+}
+.actor-profile .container-15 {
+  margin: 5px 0 21px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 18px;
+  box-sizing: border-box;
+}
+.actor-profile .container-44 {
+  margin: 0 46px 2px 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 833px;
+  box-sizing: border-box;
+}
+.actor-profile .vector-220 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 76px 17.2px 76px;
+  align-self: flex-end;
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .email-id {
+  margin: 8px 12px 0 0;
+  display: inline-block;
+  width: 223px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .about {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .container-5 {
+  margin: 0 46px 6px 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 467.4px;
+  box-sizing: border-box;
+}
+.actor-profile .kabir-123-gmail-com {
+  margin-bottom: 28px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .social-media-handle-instagram {
+  margin: 0 2.3px 0 1px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .container-23 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.actor-profile .hi-im-kabir-ilove-acting-and-bringing-characters-to-life-whether-its-performing-in-front-of-acamera-or-walking-the-runway-ialways-give-my-best-in-my-free-time-ienjoy-dancing-playing-sports-and-spending-time-with-my-friends-im-excited-to-take-on-new-roles-and-challenges {
+  margin: 0 15.1px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.actor-profile .vector-217 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .container-16 {
+  margin: 4px 0 5.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.actor-profile .container-13 {
+  margin: 0 76px 6px 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1319px;
+  box-sizing: border-box;
+}
+.actor-profile .kabir-0909 {
+  margin: 0 12px 14px 0;
+  display: inline-block;
+  width: 223px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .past-experiences {
+  margin-top: 9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .container-2 {
+  margin: 0 46px 16px 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 602.2px;
+  box-sizing: border-box;
+}
+.actor-profile .social-media-handle-1-youtube {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .kabir-k-0909 {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .container-34 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.actor-profile .container-2 {
+  margin: 5px 17.5px 67px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.tv-commercial-for-health-drink-2022-sub1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.actor-profile .tv-commercial-for-health-drink-2022 {
+  margin-bottom: 5px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .lead-child-actor {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.actor-profile .portrayed-an-energetic-and-enthusiastic-child-enjoying-arefreshing-health-drink-demonstrated-aconvincing-and-joyful-performance-capturing-the-essence-of-the-products-benefits {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.actor-profile .container-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.actor-profile .container-24 {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.actor-profile .container-20 {
+  margin: 0 67.5px 38px 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1327.5px;
+  box-sizing: border-box;
+}
+.actor-profile .container-3 {
+  margin: 5px 13.3px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .fashion-show-for-mumbai-fashion-2022 {
+  margin-bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.fashion-show-for-mumbai-fashion-2022-sub1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.actor-profile .container-33 {
+  margin: 0 119.7px 1px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.actor-profile .runway-model {
+  margin: 0 370.4px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.actor-profile .walked-the-runway-showcasing-the-latest-kids-fashion-displayed-confidence-style-and-aplayful-attitude-that-resonated-with-the-audience-and-photographers {
+  margin: 0 86.1px 31px 86.1px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.actor-profile .vector-218 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 76px 25.2px 76px;
+  align-self: flex-end;
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .certifications {
+  margin: 0 400.7px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .container-1 {
+  margin-right: 17.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .acting-workshop-completion-certificate-2023 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #BB362A;
+}
+.actor-profile .container-1 {
+  margin: 0 54.6px 6px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.actor-profile .mumbai-acting-academy {
+  margin: 0 275px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.actor-profile .successfully-completed-a-6-week-intensive-acting-workshop-focusing-on-improvisation-voice-modulation-and-stage-presence-learned-from-experienced-industry-professionals-and-participated-in-various-practical-exercises-and-performances {
+  margin: 0 95.1px 41px 95.1px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.actor-profile .vector-219 {
+  box-shadow: 0px 4px 2px 0px rgba(187, 54, 42, 0.15);
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 76px 25.2px 76px;
+  align-self: flex-end;
+  width: 927px;
+  height: 0px;
+}
+.actor-profile .photos-videos {
+  margin: 0 385.9px 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 24px;
+  color: #BB362A;
+}
+.actor-profile .model-331609419201 {
+  border-radius: 20px;
+  background: url('../assets/images/model_331609419201.jpeg');
+  margin: 1px 19px 0 0;
+  width: 300px;
+  height: 278px;
+}
+.actor-profile .boy-model-333904519201 {
+  border-radius: 20px;
+  background: url('../assets/images/boy_model_333904519201.jpeg') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 300px;
+  height: 279px;
+}
+.actor-profile .kids-336219819201 {
+  border-radius: 20px;
+  background: url('../assets/images/kids_336219819201.jpeg');
+  width: 300px;
+  height: 279px;
+}
+.actor-profile .container-37 {
+  margin: 0 58px 25px 58px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: 941px;
+  box-sizing: border-box;
+}
+.actor-profile .scarf-333904919202 {
+  border-radius: 20px;
+  background: url('../assets/images/scarf_333904919202.jpeg') 50% / cover no-repeat;
+  margin: 0 17px 1px 0;
+  width: 301px;
+  height: 277px;
+}
+.actor-profile .group-89 {
+  width: 82.6px;
+  height: 82.6px;
+}
+.actor-profile .container-31 {
+  border-radius: 20px;
+  border: 0.5px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 97.2px 1px 98.2px 0;
+  width: 302px;
+  height: 278px;
+  box-sizing: border-box;
+}
+.actor-profile .container-29 {
+  margin: 0 0 54px 62px;
+  display: flex;
+  flex-direction: row;
+  width: 620px;
+  box-sizing: border-box;
+}
+.actor-profile .hire {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20.8px;
+  color: #FFFFFF;
+}
+.actor-profile .container-14 {
+  border-radius: 9.6px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 20.8px 0 19px 0.8px;
+  width: 158.4px;
+  box-sizing: border-box;
+}
+.actor-profile .message {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20.8px;
+  color: #FFFFFF;
+}
+.actor-profile .container {
+  border-radius: 9.6px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 19.2px 0 20.6px 0.8px;
+  width: 158.4px;
+  box-sizing: border-box;
+}
+.actor-profile .shortlist-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20.8px;
+  color: #FFFFFF;
+}
+.actor-profile .container-49 {
+  border-radius: 9.6px;
+  background: #BB362A;
+  position: relative;
+  display: flex;
+  padding: 19.2px 0 20.6px 0.8px;
+  width: 158.4px;
+  box-sizing: border-box;
+}
+.actor-profile .container-27 {
+  margin: 0 62px 390.2px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10.4px;
+  width: 496px;
+  box-sizing: border-box;
+}
+.actor-profile .footer-1 {
+  background: url('../assets/images/footer_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1436px;
+  height: 587px;
+}
+.actor-profile .company {
+  margin-right: 16px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.actor-profile .artists-and-recruiters {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.actor-profile .support {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 26px;
+  color: #BB362A;
+}
+.actor-profile .container-19 {
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 823.5px;
+  box-sizing: border-box;
+}
+.actor-profile .about-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .casting-calls {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .help {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .container-40 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 768px;
+  box-sizing: border-box;
+}
+.actor-profile .our-team {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .join-our-community {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .container-36 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 794px;
+  box-sizing: border-box;
+}
+.actor-profile .partners {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .agencies {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .faqs {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .container-21 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 778px;
+  box-sizing: border-box;
+}
+.actor-profile .how-we-work {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .popular-auditions {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .container-32 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 837.3px;
+  box-sizing: border-box;
+}
+.actor-profile .contact-us {
+  margin-right: 13.5px;
+  width: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .post-ajob-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .container-47 {
+  position: relative;
+  margin: 0 1px 9px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 865.6px;
+  box-sizing: border-box;
+}
+.actor-profile .find-talent-1 {
+  position: relative;
+  margin: 0 177.2px 9px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .partners-1 {
+  position: relative;
+  margin: 0 206.4px 152px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.actor-profile .connect-with-us {
+  margin-right: 9.2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 22px;
+  color: #BB362A;
+}
+.actor-profile .instagram {
+  background: url('../assets/images/instagram.png') 50% / contain no-repeat;
+  margin: 1px 0 2px 0;
+  width: 26px;
+  height: 24px;
+}
+.actor-profile .twitter-x {
+  background: url('../assets/images/twitter_x.png') 50% / contain no-repeat;
+  margin: 1px 24px 2px 0;
+  width: 22px;
+  height: 24px;
+}
+.actor-profile .you-tube {
+  background: url('../assets/images/you_tube.png') 50% / contain no-repeat;
+  width: 27px;
+  height: 27px;
+}
+.actor-profile .container-39 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.actor-profile .facebook {
+  background: url('../assets/images/facebook.png') 50% / contain no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 28px;
+  width: 24px;
+  height: 24px;
+}
+.actor-profile .container-4 {
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.actor-profile .group-131 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0 61px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.actor-profile .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.actor-profile .container-45 {
+  position: absolute;
+  left: 46px;
+  top: 193px;
+  width: 351.5px;
+  height: 325.5px;
+}
+.actor-profile {
+  background: #FFFFFF;
+  width: 1440px;
+  box-sizing: border-box;
+}
