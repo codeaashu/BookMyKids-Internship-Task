@@ -4,7 +4,7 @@
 }
 
 .landing-page .straight-logo-1 {
-  background: url('https://github.com/codeaashu/BookMyKids-Internship-Task/blob/main/straight_logo_1.png') 50% / cover no-repeat;
+  background: url('./straight_logo_1.png') 50% / cover no-repeat;
   margin: 9px 0 6.4px 0;
   width: 210px;
   height: 33.6px;
